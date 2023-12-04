@@ -1,0 +1,18 @@
+************** Movie Reviews Sentiment Classification Using N Gram Models **************
+
+Steps
+
+1) Import Movie_Reviews.txt
+2) Data preprocessing,
+	i)   Lowecasing
+	ii)  Remove special characters (, . " ! ') 
+	iii) Tokenizing
+	iv)  Remove stop words
+	v)   Stemming
+3) Apply N Gram Models
+4) Calculate N Gram probabilities
+5) Calculate the N-gram probability for the test movie review
+7) Predict the category
+	i) Suggesting best N gram model for the given data set.
+
+************** Project By Anjana Pathirana **************
